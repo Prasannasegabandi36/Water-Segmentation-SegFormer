@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+Models/
+Weights/
+outputs/
+water_results*/
+*.pt
+*.pth
+*.bin
+*.safetensors
+.env
+.env.*

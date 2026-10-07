@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+ultralytics
+opencv-python
+matplotlib
+pillow
+numpy
+scikit-learn
+timm
+accelerate
+safetensors
